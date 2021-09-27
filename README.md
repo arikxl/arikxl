@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px"/></a>
 
 <h1 align="center">Shalom <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arik</h1>
 <h3 align="center">I'm looking for my next challenge in Frontend / Full stack development positions.</h3>
@@ -15,9 +15,9 @@ opportunity to **work in web development.**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/arikxl).**
 
-- 📫 How to reach me **arikxl@gmail.com.**
+- 📫 You can reach me in **arikxl@gmail.com.**
 
-- ⚡ Fun fact **I love, puzzles, riddles, logic challenges and football.**
+- ⚡ Fun fact: **I love, puzzles, riddles, logic challenges and football.**
 
 ## 🚀 Languages and Tools:
 
