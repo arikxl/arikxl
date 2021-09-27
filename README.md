@@ -71,9 +71,9 @@ opportunity to **work in web development.**
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/Arik-Alexandrov/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://facebook.com/ArikAlexandrov"> <img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-<a href = "https://t.me/Arik_A"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png"/></a>
+<a href = "https://www.linkedin.com/in/Arik-Alexandrov/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://facebook.com/ArikAlexandrov" target="_blank"> <img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = "https://t.me/Arik_A" target="_blank"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png"/></a>
 
 </p>
 
