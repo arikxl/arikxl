@@ -1,6 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="120px"/></a>
 
-<h1 align="center">Shalom <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arik</h1>
+<h1 align="center">Shalom <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arik.</h1>
 <h3 align="center">I'm looking for my next challenge in Frontend / Full stack development positions.</h3>
 
 
