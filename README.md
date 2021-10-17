@@ -17,7 +17,7 @@ opportunity to **work in web development.**
 
 - 📫 You can reach me in **arikxl@gmail.com.**
 
-- ⚡ Fun fact: **I love, puzzles, riddles, logic challenges and football.**
+- ⚡ Fun fact: **I love puzzles, riddles, logic challenges and football.**
 
 ## 🚀 Languages and Tools:
 
