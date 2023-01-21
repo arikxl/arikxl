@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://res.cloudinary.com/arikxl/image/upload/v1674304255/laptop_wave_yahcbc.png" height="120px"/></a>
+<a href="#"><img width="100%" height="300px" src="https://res.cloudinary.com/arikxl/image/upload/v1674304255/laptop_wave_yahcbc.png" height="120px"/></a>
 
 <h1 align="center">Shalom <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arik.</h1>
 <h3 align="center">I'm looking for my next challenge in Frontend / Full stack development positions.</h3>
