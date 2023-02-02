@@ -52,11 +52,6 @@
 
 <br/>
 <br/>
-<!-- <a href="https://github.com/arikxl/github-readme-activity-graph"> -->
-<a href="#"><img alt="Arik Alexandrov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arikxl&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
