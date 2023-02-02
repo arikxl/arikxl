@@ -6,22 +6,6 @@
 <h3 align="center">I'm looking for my next challenge in Frontend / Full stack development positions.</h3>
 
 
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently looking for my first 
-opportunity to **work in web development.**
-
-- 🌱 I continue to learn and develop my skills in **React.js.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects.**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/arikxl).**
-
-- 📫 You can reach me in **arikxl@gmail.com.**
-
-- ⚡ Fun fact: **I love puzzles, riddles, logic challenges and football.**
-
-## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
