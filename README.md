@@ -1,7 +1,7 @@
 <div align="center">
 
 ## נ Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Arik#3250) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arik-alexandrov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arik-alexandrov
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Arik#3250) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arik-alexandrov) [![Telegram](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arik-alexandrov)
 
 <a href="#" align="center"><img align="center" width="300px" height="300px" src="https://res.cloudinary.com/arikxl/image/upload/v1674304255/laptop_wave_yahcbc.png" /></a>
 </div>
