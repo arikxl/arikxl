@@ -4,10 +4,8 @@
 </div>
 
 <h1 align="center">Shalom <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arik.</h1>
-<h3 align="center">I'm looking for my next challenge in Frontend / Full stack development positions.</h3>
+<h3 align="center">Feel free to take a look at my repositories<br>and connect with me if you'd like to chat about technology, life, or anything in between.</h3>
 
-# 💫 About Me:
-Feel free to take a look at my repositories<br>and connect with me if you'd like to chat<br>about technology, life, or anything in between.
 
 
 ## 🌐 Socials:
@@ -21,7 +19,6 @@ Feel free to take a look at my repositories<br>and connect with me if you'd like
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arikxl&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arikxl&icon=6&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
